@@ -9,4 +9,4 @@ const onValidQuantity = (value) => {
 
 inputValue.addEventListener('blur', onValidQuantity);
 
-console.log('Задание 6 Хочу повешать сюда еще и событие инпут, но у меня не выходит почему-то🙏');
+console.log('Задание 6');
